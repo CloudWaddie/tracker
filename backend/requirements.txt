@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+camoufox
+playwright
+apscheduler
+sqlalchemy
+pydantic
+httpx
+python-multipart
+websockets
